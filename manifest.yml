@@ -2,5 +2,10 @@
 applications:
   - name: jenkins-ci
     memory: 512M
+<<<<<<< HEAD
+    instances: 10
+    random-route: true
+=======
     instances: 1
     random-route: true
+>>>>>>> ec22f5a6f775c9a75550b1af48b690bc83fab24f
